@@ -117,7 +117,7 @@ ostringstream os;l1(0,n)os<<a[i];string str(os.str());return str;
 ///////////////
 
 
-
+/////// Contributpor gamer
 kuspia
 {
 io;
